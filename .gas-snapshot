@@ -1,0 +1,6 @@
+MemexTest:test_BuyToken() (gas: 2467479)
+MemexTest:test_CreateToken() (gas: 2285108)
+MemexTest:test_EnterKnockout() (gas: 2534590)
+MemexTest:test_FetchGameConfig() (gas: 24273)
+MemexTest:test_SingleGameAtOnce() (gas: 149709)
+MemexTest:test_StartGame() (gas: 146546)
